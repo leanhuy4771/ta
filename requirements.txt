@@ -3,9 +3,10 @@ werkzeug>=0.16.1
 pytest>=4.6.11
 coverage>=5.5
 coveralls>=1.11.
-pytesseract
-lxml
-logging
-cv2
-requests
-PIL
+lxml==4.3.3
+Pillow==5.4.1
+pytesseract==0.3.7
+requests==2.17.3
+urllib==
+http.cookiejar==
+io==
